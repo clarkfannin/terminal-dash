@@ -2,6 +2,8 @@
 
 My personal homescreen dashboard, built in the terminal!
 
+![terminal-dash](/images/terminal-dash.png)
+
 ## Requirements
 - Python
 - Ollama running locally (for AI project ideas)
