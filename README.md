@@ -14,7 +14,7 @@ My personal homescreen dashboard, built in the terminal!
 
 1. **Clone the repository**
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/clarkfannin/terminal-dash
    cd terminal-dash
 ```
 
